@@ -1,6 +1,7 @@
 ### Hi there, my name is Maks 👋
 
-[![Anurag's GitHub stats]([https://github-readme-stats.vercel.app/api?username=anuraghazra](https://github-readme-stats.vercel.app/api?username=MaksOpp&show_icons=true&theme=radical))](https://github.com/MaksOpp/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=MaksOpp&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **MaksOpp/MaksOpp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
