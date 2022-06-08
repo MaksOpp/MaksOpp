@@ -1,6 +1,6 @@
 ### Hi there, my name is Maks 👋
 
-[![My Stats](https://github-readme-stats.vercel.app/api?username=MaksOpp&show_icons=true&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![My Stats](https://github-readme-stats.vercel.app/api?username=MaksOpp&show_icons=true&theme=radical&count_private=true&hide=prs)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
